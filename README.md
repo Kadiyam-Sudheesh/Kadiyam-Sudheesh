@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Pursuing Bachelor’s degree at Kalasalingam university,<br>Aspiring Software Engineer<br>AI & Machine Learning Student<br>Python | Deep Learning<br>Open to learning & collaboration
 
 
